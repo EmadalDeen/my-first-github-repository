@@ -3,3 +3,5 @@ this file just for testing the pull request and how execute as 2 steps:
 2-merge
 
 and chcek the fetch-head file
+
+-this file was changed localy 
